@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Insightify</string>
+    <string name="login_header">Login to Insightify</string>
+    <string name="login_username">Username</string>
+    <string name="login_name">Full Name</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register">Register</string>
+    <string name="logout_button">Logout</string>
+    <string name="text_generation">Text Generation</string>
+    <string name="code_generation">Code Generation</string>
+    <string name="image_generation">Image Generation</string>
+    <string name="ask_textBox">Ask something...</string>
+    <string name="send_button">Send</string>
+    <string name="regsiter_button">Register new User</string>
+    <string name="image_contentDescription">Generated Image</string>
+</resources>

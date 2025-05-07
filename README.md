@@ -27,16 +27,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home Screen | Chat Interface | Image Generator |
-|------------|----------------|-----------------|
-| ![Home](https://via.placeholder.com/200x400?text=Home) | ![Chat](https://via.placeholder.com/200x400?text=Chat+UI) | ![ImageGen](https://via.placeholder.com/200x400?text=Image+AI) |
-
-> *Replace the above placeholder links with actual screenshots of your app.*
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run Insightify on your local machine:
